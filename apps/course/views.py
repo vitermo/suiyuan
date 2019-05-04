@@ -106,4 +106,3 @@ def course_order(request,course_id):
 #     CourseOrder.objects.filter(pk=orderid).update(status=2)
 #     return restful.ok()
 
-
