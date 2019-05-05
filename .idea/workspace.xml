@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69bbc3f3-74d6-4323-a1e9-4556e1723120" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suiyuan/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/suiyuan/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/suiyuan/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="286">
+              <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
             </state>
           </provider>
         </entry>
@@ -75,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/suiyuan/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -164,7 +163,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="311" />
+    <option name="x" value="388" />
     <option name="y" value="23" />
     <option name="width" value="1021" />
     <option name="height" value="797" />
@@ -181,11 +180,6 @@
             <path>
               <item name="suiyuan" type="b2602c69:ProjectViewProjectNode" />
               <item name="suiyuan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="suiyuan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="suiyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="suiyuan" type="b2602c69:ProjectViewProjectNode" />
@@ -354,7 +348,7 @@
       <workItem from="1554753017181" duration="2434000" />
       <workItem from="1554804081505" duration="647000" />
       <workItem from="1554890519271" duration="115567000" />
-      <workItem from="1556028272512" duration="35704000" />
+      <workItem from="1556028272512" duration="36712000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1556928530650</created>
@@ -409,7 +403,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276467000" />
+    <option name="totallyTimeSpent" value="277475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -840,7 +834,7 @@
     <entry file="file://$PROJECT_DIR$/suiyuan/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -853,8 +847,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/suiyuan/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="286">
+          <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
         </state>
       </provider>
     </entry>

@@ -227,3 +227,4 @@ DEBUG_TOOLBAR_CONFIG = {
 BAIDU_CLOUD_USER_ID = '9a1f5718c5cc42ae83bfcbd63f56efb1'
 # 点播VOD->全局设置->发布设置->安全设置->UserKey
 BAIDU_CLOUD_USER_KEY = '08b7d9e8117a4f4c'
+
