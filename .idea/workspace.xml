@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69bbc3f3-74d6-4323-a1e9-4556e1723120" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/uwsgi.ini" beforeDir="false" afterPath="$PROJECT_DIR$/uwsgi.ini" afterDir="false" />
-    </list>
+    <list default="true" id="69bbc3f3-74d6-4323-a1e9-4556e1723120" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,7 +351,7 @@
       <workItem from="1554804081505" duration="647000" />
       <workItem from="1554890519271" duration="115567000" />
       <workItem from="1556028272512" duration="36712000" />
-      <workItem from="1557075078035" duration="803000" />
+      <workItem from="1557075078035" duration="2147000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1556928530650</created>
@@ -404,11 +402,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557044347676</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1557143807379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557143807379</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1557146241333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557146241333</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="278278000" />
+    <option name="totallyTimeSpent" value="279622000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
